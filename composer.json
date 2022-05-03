@@ -18,24 +18,6 @@
             "email": "yaquawa@gmail.com"
         }
     ],
-        "repositories": {
-        "contracts": {
-            "type": "vcs",
-            "url": "https://github.com/bubblegumtom/contracts"
-        },
-        "support": {
-            "type": "vcs",
-            "url": "https://github.com/bubblegumtom/support"
-        },
-        "pagination": {
-            "type": "vcs",
-            "url": "https://github.com/bubblegumtom/pagination"
-        },
-        "options": {
-            "type": "vcs",
-            "url": "https://github.com/bubblegumtom/options"
-        }
-    },
     "require": {
         "php": "^8.0"
     },
